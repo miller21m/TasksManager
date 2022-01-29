@@ -5,7 +5,7 @@ In this project the user can mange all the projects of the team with all the tas
 In this App the Board represent a Project, and each board has sub-tasks. 
 
 Pasana: 
-Easily track, monitor and manage, your team memers tasks on one platform. Lest start your new tasks with Pasana.com
+Easily track, monitor and manage, your team members tasks on one platform. Lest start your new tasks with Pasana.com
 
 <b>Server: </b>
 <ul>
