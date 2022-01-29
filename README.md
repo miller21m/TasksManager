@@ -1,4 +1,4 @@
-# Pasana (A project management system)
+# Pasana (Project management system)
 
 This project was created as part of my practices. 
 In this project the user can mange all the projects of the team with all the tasks under those projects.
