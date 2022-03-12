@@ -1,5 +1,7 @@
 # Pasana (Project management system)
 
+
+<b>Project-video:</b> https://youtu.be/yIPQ6mllQi0
 This project was created as part of my practices. 
 In this project the user can mange all the projects of the team with all the tasks under those projects.
 In this App the Board represent a Project, and each board has sub-tasks. 
@@ -25,8 +27,6 @@ Easily track, monitor and manage, your team members tasks on one platform. Lest 
 <li>Axios</li>
 </ul>
 
-Project-video:
-https://youtu.be/yIPQ6mllQi0
 
 <b>welcome Screen:</b>
 <a href="https://imgur.com/fVuRm35"><img src="https://i.imgur.com/fVuRm35.png" title="source: imgur.com" /></a>
